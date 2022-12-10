@@ -5,12 +5,12 @@
     <table>
       <thead>
         <tr>
-          <th>index</th>
-          <th>name</th>
-          <th>photo</th>
-          <th>price</th>
-          <th>quantity</th>
-          <th>total</th>
+          <th>Index</th>
+          <th>Name</th>
+          <th>Photo</th>
+          <th>Price</th>
+          <th>Quantity</th>
+          <th>Total</th>
           <th>Delete</th>
         </tr>
       </thead>
